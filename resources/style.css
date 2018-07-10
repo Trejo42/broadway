@@ -1,13 +1,11 @@
+
 body {
   text-align: center;
-  width: auto;
+
 }
 
 .header {
   background-image: url("./images/the-flatiron-building.png");
-  background-size: auto;
-  background-size: 100%;
-  background-repeat: no-repeat;
 }
 
 a {
@@ -43,8 +41,6 @@ p {
 
 .designed {
   background-image: url("./images/the-flatiron-building.png");
-  background-size: 100%;
-  background-repeat: no-repeat;
   font-family: helvetica;
   font-size: 23px;
   font-weight: bold;
