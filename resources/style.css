@@ -10,11 +10,9 @@ h1 {
 }
 
 nav a {
-  background-image: url("./resources/images/the-flatiron-building.png");
   font-family: helvetica;
   font-size: 18px;
-  color: white;
-  
+  color: ;
 }
 
 h2 {
@@ -39,4 +37,8 @@ p {
   font-size: 23px;
   font-weight: bold;
   color: white;
+}
+
+.footer {
+  float: left;
 }
